@@ -145,7 +145,7 @@ public class PathSearch  {
             resultPath.Add(MapUtil.GetInstance().GetIndex(p.y, p.x));
         }
         //第一个点会出现坐标误差，删除
-        resultPath.Remove(resultPath.Count - 1);
+        resultPath.RemoveAt(resultPath.Count-1 );
         return resultPath;
     }
 
