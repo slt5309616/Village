@@ -25,8 +25,10 @@ public class PathSearch  {
             pointDic.Add(itr.Current.Key, point);
         }
     }
-    public List<int> GeneratePath(int beginRow,int beginCol,int endRow,int endCol) {
-        this.path = FindWay(pointDic[MapUtil.GetInstance().GetIndex(beginRow, beginCol)], pointDic[MapUtil.GetInstance().GetIndex(endRow, endCol)]);
+    public List<int> GeneratePath(int beginIndex,int endIndex) {
+        var startPoint = pointDic[beginIndex];
+        var endPoint = pointDic[endIndex];
+        this.path = FindWay(startPoint, endPoint);
         return this.path;
     }
 
@@ -136,12 +138,14 @@ public class PathSearch  {
             CheckP8(p0,pa, ref pb);
         }
 
-
+        //将结果以倒序加入result
         Point p = GetPointFromOpenList(pb.x, pb.y);
         while (p.father != null) {
             p = p.father;
             resultPath.Add(MapUtil.GetInstance().GetIndex(p.y, p.x));
         }
+        //第一个点会出现坐标误差，删除
+        resultPath.Remove(resultPath.Count - 1);
         return resultPath;
     }
 

@@ -26,7 +26,7 @@ public class SceneConfig {
     }
     
     private string _prefix = "http://static.m16.mingchao.com/";
-    private string _suffix = ".ab?v=110734";
+    private string _suffix = ".ab?v=111165";
     private SceneConfig() {
         currentSceneIndex = Application.loadedLevel;
     }

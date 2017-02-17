@@ -46,7 +46,6 @@ public class GameInit : MonoBehaviour {
     private Vector3 cameraOffset = new Vector3(0, 40, -40);
 
 
-
     private Dictionary<string,List<string>> assetsDependDic;
     /// <summary>
     ///   正在加载的WWW列表
@@ -359,7 +358,13 @@ public class GameInit : MonoBehaviour {
                 
 
                 if (MapUtil.GetInstance().isPointEffective(hit.point)){
-                    path = MapUtil.GetInstance().GeneratePath(goPlayer.transform.position, hit.point);
+                    Vector3 startPoint = Vector3.zero;
+                    if (MapUtil.GetInstance().isPointEffective(goPlayer.transform.position)){
+                        startPoint = goPlayer.transform.position;
+                    }else{
+                        startPoint = tarPoint;
+                    }
+                    path = MapUtil.GetInstance().GeneratePath(startPoint, hit.point);
                     if (path.Count > 0) {
                         SetGameState(HeroState.HERO_RUN);
                     }
@@ -522,7 +527,7 @@ public class GameInit : MonoBehaviour {
             SetGameState(HeroState.HERO_IDLE);
         }
         
-        if (Mathf.Abs(Vector3.Distance(tarPoint, goPlayer.transform.position)) ==0) {
+        if (Mathf.Abs(Vector3.Distance(tarPoint, goPlayer.transform.position)) >0) {
             goPlayer.transform.position = Vector3.MoveTowards(goPlayer.transform.position, tarPoint, speed);
         } else {
             path.Remove(tarPoint);

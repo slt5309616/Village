@@ -111,11 +111,11 @@ public class MapUtil  {
         List<Vector3> path = new List<Vector3>();
         int beginRow,beginCol,endRow, endCol;
         
-        CaculatePointIndex(beginPoint, out beginRow, out beginCol);
-        CaculatePointIndex(endPoint, out endRow, out endCol);
-        Debug.Log("beginP:" + beginPoint + ":" + GetIndex(beginRow, beginCol));
-        Debug.Log("endP:" + endPoint + ":" + GetIndex(endRow, endCol));
-        GeneratePath(path, beginRow, beginCol, endRow, endCol);
+        int beginIndex =  CaculatePointIndex(beginPoint, out beginRow, out beginCol);
+        int endIndex = CaculatePointIndex(endPoint, out endRow, out endCol);
+        Debug.Log("beginP:" + beginPoint + ":" + beginIndex);
+        Debug.Log("endP:" + endPoint + ":" + endIndex);
+        GeneratePath(path, beginIndex, endIndex);
         
         return path;
     }
@@ -147,9 +147,9 @@ public class MapUtil  {
     }
 
     
-    private void GeneratePath(List<Vector3> path, int beginRow, int beginCol, int endRow, int endCol) {
+    private void GeneratePath(List<Vector3> path,int beginIndex,int endIndex) {
         var pathSearch = new PathSearch(mapDic,rows,cols);
-        var indexList =pathSearch.GeneratePath(beginRow, beginCol, endRow, endCol);
+        var indexList = pathSearch.GeneratePath(beginIndex, endIndex);
         foreach (var index in indexList) {
             path.Add(GetPosFromIndex(index));
         }
