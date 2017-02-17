@@ -1,0 +1,402 @@
+<Root>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607018.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_607018.prefab,Scene/Textures/Texture_10000_607004.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_607004.mat,Scene/Models/Model_10000_607018.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601007.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_601001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Prefabs/Prefab_10000_601007.prefab,Scene/Models/Materials/Texture_10000_601001.mat,Scene/Models/Model_10000_601007.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603002.prefab</Title>
+    <Info>Scene/Textures/Texture_60101_606005.tga,Scene/Textures/Texture_60101_606004.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_603002.FBX,Scene/Models/Materials/Texture_10000_603001.mat,Scene/Textures/Texture_60101_606006.tga,Scene/Prefabs/Prefab_10000_603002.prefab,Scene/Textures/Texture_10000_603001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607046_Anim.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_607046_Anim.prefab,Scene/Models/Model_10000_607046_Anim.FBX,Scene/Textures/Texture_10000_607004.tga,Scene/Models/Materials/Texture_10000_601004.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607010_Anim.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607003.tga,Scene/Models/Model_10000_607009_Anim.FBX,Scene/Prefabs/Prefab_10000_607010_Anim.prefab,Scene/Models/Materials/Texture_10000_607003.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_612001.prefab</Title>
+    <Info>Scene/Textures/Texture_40000_612001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-VertexLit.shader,Scene/Models/Model_10000_612001.FBX,PreLoad/Shader/PureColor.shader,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Prefabs/Prefab_10000_612001.prefab,Scene/Models/Materials/Texture_40000_612001.mat</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607054.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_607054.prefab,Scene/Textures/Texture_10000_604002.tga,Scene/Models/Materials/Texture_10000_604002.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Models/Model_10000_607054.FBX</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603086.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603080.mat,Scene/Models/Model_10000_603086.FBX,Scene/Prefabs/Prefab_10000_603086.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_603080.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_10000_yanwu_01.prefab</Title>
+    <Info>Effect/P_10000_yanwu_01.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_10000_xingguang_B.prefab</Title>
+    <Info>Effect/P_10000_xingguang_B.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607002_Anim.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_607002_Anim.prefab,Scene/Models/Materials/Texture_10000_607002.mat,Scene/Models/Model_10000_607002_Anim.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_607002.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603003.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_603003.prefab,Scene/Models/Model_10000_603003.FBX,Scene/Textures/Texture_60101_606005.tga,Scene/Textures/Texture_60101_606004.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_603001.mat,Scene/Textures/Texture_60101_606006.tga,Scene/Textures/Texture_10000_603001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601005.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_601005.prefab,Scene/Textures/Texture_10000_601001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_601001.mat,Scene/Models/Model_10000_601004.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603075.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_603075.prefab,Scene/Textures/Texture_10000_603073.tga,Scene/Models/Materials/Texture_10000_603073.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Models/Model_10000_603075.FBX</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_602018.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_602018.prefab,Scene/Textures/Texture_10000_602018.tga,Scene/Models/Model_10000_602018.FBX,Scene/Models/Materials/Texture_10000_602018.mat</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_10000_guangxian_huang.prefab</Title>
+    <Info>Effect/P_10000_guangxian_huang.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601004.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_601004.prefab,Scene/Textures/Texture_10000_601001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_601001.mat,Scene/Models/Model_10000_601004.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601006.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_601006.prefab,Scene/Textures/Texture_10000_601001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_601001.mat,Scene/Models/Model_10000_601006.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603074.prefab</Title>
+    <Info>Scene/Models/Model_10000_603074.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_603074.tga,Scene/Prefabs/Prefab_10000_603074.prefab,Scene/Models/Materials/Texture_10000_603074.mat</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_604005.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_604005.prefab,Scene/Models/Materials/Texture_10000_604001.mat,Scene/Models/Model_10000_604005.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_604001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603036.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603036.mat,Scene/Models/Model_10000_603036.FBX,Scene/Textures/Texture_10000_603036.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Prefabs/Prefab_10000_603036.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603064.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_603037.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_603064.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader,Scene/Models/Materials/Texture_10000_603037.mat,Scene/Prefabs/Prefab_10000_603064.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603058.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_603058.prefab,Scene/Models/Model_10000_603058.FBX,Scene/Models/Materials/Texture_10000_603058.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Textures/Texture_10000_603058.tga</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601008.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_601008.prefab,Scene/Textures/Texture_10000_601001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_601001.mat,Scene/Models/Model_10000_601008.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603004.prefab</Title>
+    <Info>Scene/Textures/Texture_60101_606005.tga,Scene/Prefabs/Prefab_10000_603004.prefab,Scene/Textures/Texture_60101_606004.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_603001.mat,Scene/Textures/Texture_60101_606006.tga,Scene/Models/Model_10000_603004.FBX,Scene/Textures/Texture_10000_603001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603069.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603058.mat,Scene/Models/Model_10000_603069.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Textures/Texture_10000_603058.tga,Scene/Prefabs/Prefab_10000_603069.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_602001_shuilun_01.prefab</Title>
+    <Info>Effect/P_602001_shuilun_01.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603087.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603080.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_603080.tga,Scene/Prefabs/Prefab_10000_603087.prefab,Scene/Models/Model_10000_603087.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603081.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603080.mat,Scene/Models/Model_10000_603081.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_603080.tga,Scene/Prefabs/Prefab_10000_603081.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_fireworm_2.prefab</Title>
+    <Info>Effect/P_fireworm_2.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607053_Anim.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_607053_Anim.prefab,Scene/Textures/Texture_10000_607003.tga,Scene/Models/Materials/Texture_10000_607003.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_607053_Anim.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_10000_xingguang_Y.prefab</Title>
+    <Info>Effect/P_10000_xingguang_Y.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_604003.prefab</Title>
+    <Info>PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Prefabs/Prefab_10000_604003.prefab,Scene/Models/Model_10000_604003.FBX,Scene/Textures/Texture_10000_604003.tga,Scene/Models/Materials/Texture_10000_604003.mat</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603068.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603061.mat,Scene/Prefabs/Prefab_10000_603068.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_603061.tga,Scene/Models/Model_10000_603068.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601001.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_601001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Prefabs/Prefab_10000_601001.prefab,Scene/Models/Materials/Texture_10000_601001.mat,Scene/Models/Model_10000_601001.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601013.prefab</Title>
+    <Info>Scene/Models/Model_10000_601013.FBX,Scene/Prefabs/Prefab_10000_601013.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607009_Anim.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607003.tga,Scene/Prefabs/Prefab_10000_607009_Anim.prefab,Scene/Models/Model_10000_607009_Anim.FBX,Scene/Models/Materials/Texture_10000_607003.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603060_Anim.prefab</Title>
+    <Info>PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-VertexLit.shader,Scene/Prefabs/Prefab_10000_603060_Anim.prefab,Scene/Models/Materials/Texture_10000_603023.mat,Scene/Models/Model_10000_603060_Anim.FBX,Scene/Textures/Texture_10000_603023.tga</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603065.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603061.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_603061.tga,Scene/Prefabs/Prefab_10000_603065.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader,Scene/Models/Model_10000_603065.FBX</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607044.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_607044.prefab,Scene/Models/Materials/Texture_10000_607005.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_607005.tga,Scene/Models/Model_10000_607044.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_602001_02.prefab</Title>
+    <Info>Effect/P_602001_02.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603072_Anim.prefab</Title>
+    <Info>Scene/Models/Model_10000_603072_Anim.FBX,Scene/Prefabs/Prefab_10000_603072_Anim.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-VertexLit.shader,Scene/Models/Materials/Texture_10000_603023.mat,Scene/Textures/Texture_10000_603023.tga</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603023_Anim.prefab</Title>
+    <Info>PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-VertexLit.shader,Scene/Prefabs/Prefab_10000_603023_Anim.prefab,Scene/Models/Model_10000_603023_Anim.FBX,Scene/Models/Materials/Texture_10000_603023.mat,Scene/Textures/Texture_10000_603023.tga</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_604006.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_604002.tga,Scene/Models/Materials/Texture_10000_604002.mat,Scene/Prefabs/Prefab_10000_604006.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Models/Model_10000_604006.FBX</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603083.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_603082.tga,Scene/Models/Materials/Texture_10000_603082.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Prefabs/Prefab_10000_603083.prefab,Scene/Models/Model_10000_603083.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603070.prefab</Title>
+    <Info>Scene/Models/Model_10000_603070.FBX,Scene/Textures/Texture_10000_603073.tga,Scene/Models/Materials/Texture_10000_603073.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Prefabs/Prefab_10000_603070.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603059_Anim.prefab</Title>
+    <Info>Scene/Models/Model_10000_603059_Anim.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-VertexLit.shader,Scene/Prefabs/Prefab_10000_603059_Anim.prefab,Scene/Models/Materials/Texture_10000_603023.mat,Scene/Textures/Texture_10000_603023.tga</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_604009.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_607052.mat,Scene/Models/Model_10000_604009.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Textures/Texture_10000_607052.tga,Scene/Prefabs/Prefab_10000_604009.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_612002.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_612002.prefab,Scene/Textures/Texture_40000_612001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-VertexLit.shader,PreLoad/Shader/PureColor.shader,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Models/Materials/Texture_40000_612001.mat,Scene/Models/Model_10000_612002.FBX</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_604004.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_604004.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Prefabs/Prefab_10000_604004.prefab,Scene/Models/Materials/Texture_10000_604004.mat,Scene/Models/Model_10000_604004.FBX</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607040.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607004.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_607004.mat,Scene/Prefabs/Prefab_10000_607040.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader,Scene/Models/Model_10000_607040.FBX</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_602001.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_602001.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Textures/Texture_10000_602001.tga,Scene/Models/Model_10000_602001.FBX,Scene/Models/Materials/Texture_10000_602001.mat</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_604010.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_604005.tga,Scene/Models/Model_10000_604010.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_604008.mat,Scene/Prefabs/Prefab_10000_604010.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603066.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603061.mat,Scene/Prefabs/Prefab_10000_603066.prefab,Scene/Models/Model_10000_603066.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_603061.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607031.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607004.tga,Scene/Prefabs/Prefab_10000_607031.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_607004.mat,Scene/Models/Model_10000_607031.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607049.prefab</Title>
+    <Info>Scene/Models/Model_10000_607049.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Models/Materials/Texture_10000_607049.mat,Scene/Prefabs/Prefab_10000_607049.prefab,Scene/Textures/Texture_10000_607049.tga</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607029.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607003.tga,Scene/Models/Materials/Texture_10000_607003.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_607029.FBX,Scene/Prefabs/Prefab_10000_607029.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607021.prefab</Title>
+    <Info>Scene/Models/Model_10000_607021.FBX,Scene/Models/Materials/Texture_10000_607005.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_607005.tga,Scene/Prefabs/Prefab_10000_607021.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607054_Anim.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607003.tga,Scene/Models/Materials/Texture_10000_607003.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_607053_Anim.FBX,Scene/Prefabs/Prefab_10000_607054_Anim.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603076.prefab</Title>
+    <Info>Scene/Models/Model_10000_603076.FBX,Scene/Textures/Texture_10000_603075.tga,Scene/Models/Materials/Texture_10000_603075.mat,Scene/Prefabs/Prefab_10000_603076.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603077.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_603076.tga,Scene/Prefabs/Prefab_10000_603077.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_603077.FBX,Scene/Models/Materials/Texture_10000_603076.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607030.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607003.tga,Scene/Prefabs/Prefab_10000_607030.prefab,Scene/Models/Materials/Texture_10000_607003.mat,Scene/Models/Model_10000_607030.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607039.prefab</Title>
+    <Info>Scene/Models/Model_10000_607039.FBX,Scene/Prefabs/Prefab_10000_607039.prefab,Scene/Textures/Texture_10000_607004.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_607004.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607038.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607004.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Prefabs/Prefab_10000_607038.prefab,Scene/Models/Materials/Texture_10000_607004.mat,Scene/Models/Model_10000_607038.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_10000_XSCSL.prefab</Title>
+    <Info>Effect/P_10000_XSCSL.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603073.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603061.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_603073.FBX,Scene/Prefabs/Prefab_10000_603073.prefab,Scene/Textures/Texture_10000_603061.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_604030.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_604030.mat,Scene/Prefabs/Prefab_10000_604030.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_604030.tga,Scene/Models/Model_10000_604030.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607047.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607003.tga,Scene/Models/Materials/Texture_10000_607003.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Prefabs/Prefab_10000_607047.prefab,Scene/Models/Model_10000_607047.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_604001.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_604001.mat,Scene/Models/Model_10000_604001.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_604001.tga,Scene/Prefabs/Prefab_10000_604001.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603071.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_603071.tga,Scene/Prefabs/Prefab_10000_603071.prefab,Scene/Models/Model_10000_603071.FBX,Scene/Models/Materials/Texture_10000_607071.mat</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607007.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607003.tga,Scene/Prefabs/Prefab_10000_607007.prefab,Scene/Models/Model_10000_607007.FBX,Scene/Models/Materials/Texture_10000_607003.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607041.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_607041.prefab,Scene/Models/Model_10000_607041.FBX,Scene/Textures/Texture_10000_607004.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_607004.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_fireworm_1.prefab</Title>
+    <Info>Effect/P_fireworm_1.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_604012.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_604012.prefab,Scene/Models/Model_10000_604012.FBX,Scene/Textures/Texture_10000_604002.tga,Scene/Models/Materials/Texture_10000_604002.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601014.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_601014.prefab,Scene/Textures/Texture_10000_601001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_601001.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader,Scene/Models/Model_10000_601014.FBX</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601003.prefab</Title>
+    <Info>Scene/Models/Model_10000_601003.FBX,Scene/Textures/Texture_10000_601001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_601001.mat,Scene/Prefabs/Prefab_10000_601003.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_602001_03.prefab</Title>
+    <Info>Effect/P_602001_03.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607014.prefab</Title>
+    <Info>Scene/Models/Model_10000_607014.FBX,Scene/Textures/Texture_10000_607003.tga,Scene/Models/Materials/Texture_10000_607003.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Prefabs/Prefab_10000_607014.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603078.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_603078.prefab,Scene/Models/Model_10000_603078.FBX,Scene/Models/Materials/Texture_10000_603077.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607005_Anim.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_607005_Anim.prefab,Scene/Models/Materials/Texture_10000_607002.mat,Scene/Models/Model_10000_607005_Anim.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_607002.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607001_Anim.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_607001_Anim.prefab,Scene/Models/Materials/Texture_10000_607001.mat,Scene/Textures/Texture_10000_607001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-VertexLit.shader,Scene/Models/Model_10000_607001_Anim.FBX</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_604008.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_604002.tga,Scene/Models/Materials/Texture_10000_604002.mat,Scene/Models/Model_10000_604008.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Prefabs/Prefab_10000_604008.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_602001_01.prefab</Title>
+    <Info>Effect/P_602001_01.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603067.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603061.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_603067.FBX,Scene/Textures/Texture_10000_603061.tga,Scene/Prefabs/Prefab_10000_603067.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601009.prefab</Title>
+    <Info>Scene/Models/Model_10000_601009.FBX,Scene/Textures/Texture_10000_601001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Prefabs/Prefab_10000_601009.prefab,Scene/Models/Materials/Texture_10000_601001.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601012.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_601001.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_601012.FBX,Scene/Models/Materials/Texture_10000_601001.mat,Scene/Prefabs/Prefab_10000_601012.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603001.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603002.mat,Scene/Prefabs/Prefab_10000_603001.prefab,Scene/Textures/Texture_10000_603056.tga,Scene/Models/Model_10000_603001.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_604002.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_604002.tga,Scene/Models/Materials/Texture_10000_604002.mat,Scene/Models/Model_10000_604002.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Prefabs/Prefab_10000_604002.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603061.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_603061.mat,Scene/Models/Model_10000_603061.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_603061.tga,Scene/Prefabs/Prefab_10000_603061.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_603085.prefab</Title>
+    <Info>Scene/Models/Model_10000_603085.FBX,Scene/Textures/Texture_10000_603082.tga,Scene/Models/Materials/Texture_10000_603082.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Prefabs/Prefab_10000_603085.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607035.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_607005.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Textures/Texture_10000_607005.tga,Scene/Prefabs/Prefab_10000_607035.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader,Scene/Models/Model_10000_607035.FBX</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607055.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607003.tga,Scene/Prefabs/Prefab_10000_607055.prefab,Scene/Models/Materials/Texture_10000_607003.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_607055.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607019.prefab</Title>
+    <Info>Scene/Prefabs/Prefab_10000_607019.prefab,Scene/Textures/Texture_10000_607004.tga,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Materials/Texture_10000_607004.mat,Scene/Models/Model_10000_607019.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607033.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607003.tga,Scene/Prefabs/Prefab_10000_607033.prefab,Scene/Models/Materials/Texture_10000_607003.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_607033.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607052_Anim.prefab</Title>
+    <Info>Scene/Models/Materials/Texture_10000_607052.mat,Scene/Prefabs/Prefab_10000_607052_Anim.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Models/Model_10000_607052_Anim.FBX,Scene/Textures/Texture_10000_607052.tga</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607050.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607003.tga,Scene/Models/Materials/Texture_10000_607003.mat,Scene/Prefabs/Prefab_10000_607050.prefab,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,Scene/Models/Model_10000_607050.FBX,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607056.prefab</Title>
+    <Info>Scene/Models/Model_10000_607056.FBX,Scene/Textures/Texture_10000_607003.tga,Scene/Prefabs/Prefab_10000_607056.prefab,Scene/Models/Materials/Texture_10000_607003.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-VertexLit.shader,PreLoad/Shader/Builtin/DefaultResourcesExtra/AlphaTest-Diffuse.shader</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Effect/P_602001_chushengdianbeijing_01.prefab</Title>
+    <Info>Effect/P_602001_chushengdianbeijing_01.prefab</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_601002.prefab</Title>
+    <Info>PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Models/Model_10000_601002.FBX,Scene/Textures/Texture_10000_601002.tga,Scene/Prefabs/Prefab_10000_601002.prefab,Scene/Models/Materials/Texture_10000_601002.mat</Info>
+  </Node>
+  <Node Type="string">
+    <Title>Scene/Prefabs/Prefab_10000_607043.prefab</Title>
+    <Info>Scene/Textures/Texture_10000_607043.tga,Scene/Models/Materials/Texture_10000_607043.mat,PreLoad/Shader/Builtin/DefaultResourcesExtra/Normal-Diffuse.shader,Scene/Prefabs/Prefab_10000_607043.prefab,Scene/Models/Model_10000_607043.FBX</Info>
+  </Node>
+</Root>
